@@ -11,4 +11,6 @@
 | 文档阅读器       | [**KOReader**](https://github.com/koreader/koreader/releases)                | 安卓、Linux、电子阅读器 |
 | 邮箱          | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android/releases)  | 安卓             |
 | 中文输入法       | [**fcitx5-android**](https://f-droid.org/packages/org.fcitx.fcitx5.android/) | 安卓             |
-| NGC/Wii 模拟器 | [**dolphin**](https://dolphin-emu.org/)                                      | 跨平台            |
+| NGC/Wii 模拟器 | [**Dolphin**](https://dolphin-emu.org/)                                      | 跨平台            |
+| PSP 模拟器     | [**PPSSPP**](https://www.ppsspp.org/download/)                               | 跨平台            |
+| 2FA         | [**Aegis**](https://f-droid.org/packages/com.beemdevelopment.aegis/)         | 安卓             |
