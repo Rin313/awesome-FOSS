@@ -15,4 +15,7 @@ Recommending the best free and open-source software (FOSS) solutions for each sp
 | Simplified Chinese Input Method | [**fcitx5-android**](https://f-droid.org/packages/org.fcitx.fcitx5.android/)  | Android                   |
 | NGC/Wii Emulator                | [**Dolphin**](https://dolphin-emu.org/)                                       | Cross-Platform            |
 | PSP Emulator                    | [**PPSSPP**](https://www.ppsspp.org/download/)                                | Cross-Platform            |
-| 2FA Authenticator               | [**Aegis**](https://f-droid.org/packages/com.beemdevelopment.aegis/)          | Android                   |
+| File Archiver                   | [**7-zip**](https://7-zip.org/)                                               | Windows                   |
+| File Archiver                   | [**ZipXtract**](https://github.com/WirelessAlien/ZipXtract/releases)          | Android                   |
+| Weather                         | [**Breezy Weather**](https://f-droid.org/packages/org.breezyweather/)         | Android                   |
+| 2FA                             | [**Aegis**](https://f-droid.org/packages/com.beemdevelopment.aegis/)          | Android                   |

@@ -11,8 +11,11 @@
 | 文档阅读器       | [**KOReader**](https://github.com/koreader/koreader/releases)                 | 安卓、Linux、电子阅读器 |
 | 图像查看        | [**Aves**](https://f-droid.org/packages/deckers.thibault.aves.libre)          | 安卓             |
 | 图像处理        | [**ImageToolbox**](https://f-droid.org/packages/ru.tech.imageresizershrinker) | 安卓             |
-| 邮箱          | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android/releases)   | 安卓             |
+| 邮箱客户端       | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android/releases)   | 安卓             |
 | 简体中文输入法     | [**fcitx5-android**](https://f-droid.org/packages/org.fcitx.fcitx5.android/)  | 安卓             |
 | NGC/Wii 模拟器 | [**Dolphin**](https://dolphin-emu.org/)                                       | 跨平台            |
 | PSP 模拟器     | [**PPSSPP**](https://www.ppsspp.org/download/)                                | 跨平台            |
+| 文件解压缩       | [**7-zip**](https://7-zip.org/)                                               | windows        |
+| 文件解压缩       | [**ZipXtract**](https://github.com/WirelessAlien/ZipXtract/releases)          | 安卓             |
+| 天气          | [**Breezy Weather**](https://f-droid.org/packages/org.breezyweather/)         | 安卓             |
 | 2FA         | [**Aegis**](https://f-droid.org/packages/com.beemdevelopment.aegis/)          | 安卓             |
