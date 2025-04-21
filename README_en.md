@@ -10,6 +10,7 @@ Recommending the best free and open-source software (FOSS) solutions for each sp
 | Game streaming                  | [**Sunshine**](https://github.com/LizardByte/Sunshine/releases) + [**Moonlight**](https://moonlight-stream.org/) | Cross-Platform            |
 | NGC/Wii Emulator                | [**Dolphin**](https://dolphin-emu.org/)                                                                          | Cross-Platform            |
 | PSP Emulator                    | [**PPSSPP**](https://www.ppsspp.org/download/)                                                                   | Cross-Platform            |
+| SSH                             | [**Tabby**](https://github.com/Eugeny/tabby/releases)                                                            | Windows、macOS、Linux       |
 | Terminal Emulator               | [**Termux**](https://f-droid.org/packages/com.termux/)                                                           | Android                   |
 | Document Reader                 | [**KOReader**](https://github.com/koreader/koreader/releases)                                                    | Android, Linux, E-Readers |
 | Image Viewer                    | [**Aves**](https://f-droid.org/packages/deckers.thibault.aves.libre)                                             | Android                   |
