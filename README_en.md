@@ -7,10 +7,11 @@ Recommending the best free and open-source software (FOSS) solutions for each sp
 |---------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------|
 | App Store                       | [**F-Droid**](https://f-droid.org/)                                                                              | Android                   |
 | Local Network Transfer          | [**LocalSend**](https://github.com/localsend/localsend/releases)                                                 | Cross-Platform            |
+| Digital Painting                | [**Krita**](https://krita.org/en/download/)                                                                      | Cross-Platform            |
 | Game streaming                  | [**Sunshine**](https://github.com/LizardByte/Sunshine/releases) + [**Moonlight**](https://moonlight-stream.org/) | Cross-Platform            |
 | NGC/Wii Emulator                | [**Dolphin**](https://dolphin-emu.org/)                                                                          | Cross-Platform            |
 | PSP Emulator                    | [**PPSSPP**](https://www.ppsspp.org/download/)                                                                   | Cross-Platform            |
-| SSH                             | [**Tabby**](https://github.com/Eugeny/tabby/releases)                                                            | Windows、macOS、Linux       |
+| SSH                             | [**Tabby**](https://github.com/Eugeny/tabby)                                                                     | Windows、macOS、Linux       |
 | Terminal Emulator               | [**Termux**](https://f-droid.org/packages/com.termux/)                                                           | Android                   |
 | Document Reader                 | [**KOReader**](https://github.com/koreader/koreader/releases)                                                    | Android, Linux, E-Readers |
 | Image Viewer                    | [**Aves**](https://f-droid.org/packages/deckers.thibault.aves.libre)                                             | Android                   |

@@ -7,10 +7,11 @@
 |-------------|------------------------------------------------------------------------------------------------------------------|---------------------|
 | 应用商店        | [**F-Droid**](https://f-droid.org/)                                                                              | 安卓                  |
 | 局域网传输       | [**LocalSend**](https://github.com/localsend/localsend/releases)                                                 | 跨平台                 |
+| 板绘          | [**Krita**](https://krita.org/en/download/)                                                                      | 跨平台                 |
 | 游戏串流        | [**Sunshine**](https://github.com/LizardByte/Sunshine/releases) + [**Moonlight**](https://moonlight-stream.org/) | 跨平台                 |
 | NGC/Wii 模拟器 | [**Dolphin**](https://dolphin-emu.org/)                                                                          | 跨平台                 |
 | PSP 模拟器     | [**PPSSPP**](https://www.ppsspp.org/download/)                                                                   | 跨平台                 |
-| SSH         | [**Tabby**](https://github.com/Eugeny/tabby/releases)                                                            | Windows、macOS、Linux |
+| SSH         | [**Tabby**](https://github.com/Eugeny/tabby)                                                                     | Windows、macOS、Linux |
 | 终端仿真器       | [**Termux**](https://f-droid.org/packages/com.termux/)                                                           | 安卓                  |
 | 文档阅读器       | [**KOReader**](https://github.com/koreader/koreader/releases)                                                    | 安卓、Linux、电子阅读器      |
 | 图像查看        | [**Aves**](https://f-droid.org/packages/deckers.thibault.aves.libre)                                             | 安卓                  |
