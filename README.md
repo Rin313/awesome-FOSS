@@ -24,3 +24,4 @@
 | 2FA         | [**Aegis**](https://f-droid.org/packages/com.beemdevelopment.aegis/)                                             | 安卓                  |
 | 计算器         | [**CalcYou**](https://f-droid.org/packages/net.youapps.calcyou/)                                                 | 安卓                  |
 | 录音机         | [**AudioRecorder**](https://f-droid.org/packages/com.dimowner.audiorecorder/)                                    | 安卓                  |
+| 屏幕截图        | [**ScreenshotTile**](https://f-droid.org/packages/com.github.cvzi.screenshottile/)                               | 安卓                  |

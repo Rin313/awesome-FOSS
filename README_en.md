@@ -24,3 +24,4 @@ Recommending the best free and open-source software (FOSS) solutions for each sp
 | 2FA                             | [**Aegis**](https://f-droid.org/packages/com.beemdevelopment.aegis/)                                             | Android                   |
 | Calculator                      | [**CalcYou**](https://f-droid.org/packages/net.youapps.calcyou/)                                                 | Android                   |
 | Recorder                        | [**AudioRecorder**](https://f-droid.org/packages/com.dimowner.audiorecorder/)                                    | Android                   |
+| Screenshot                      | [**ScreenshotTile**](https://f-droid.org/packages/com.github.cvzi.screenshottile/)                               | Android                   |
