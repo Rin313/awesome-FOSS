@@ -7,6 +7,7 @@
 |-------------|------------------------------------------------------------------------------------------------------------------|---------------------|
 | 应用商店        | [**F-Droid**](https://f-droid.org/)                                                                              | Android             |
 | 局域网传输       | [**LocalSend**](https://github.com/localsend/localsend/releases)                                                 | 跨平台                 |
+| 屏幕录制        | [**OBS Studio**](https://obsproject.com/download)                                                                | Windows、macOS、Linux |
 | 板绘          | [**Krita**](https://krita.org/en/download/)                                                                      | 跨平台                 |
 | 游戏串流        | [**Sunshine**](https://github.com/LizardByte/Sunshine/releases) + [**Moonlight**](https://moonlight-stream.org/) | 跨平台                 |
 | NGC/Wii 模拟器 | [**Dolphin**](https://dolphin-emu.org/)                                                                          | 跨平台                 |
