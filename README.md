@@ -15,6 +15,7 @@
 | SSH         | [**Tabby**](https://github.com/Eugeny/tabby)                                                                     | Windows、macOS、Linux |
 | SSH         | [**ConnectBot**](https://f-droid.org/packages/org.connectbot/)                                                   | Android             |
 | 终端仿真器       | [**Termux**](https://f-droid.org/packages/com.termux/)                                                           | Android             |
+| IDE | [**Vscodium**](https://github.com/VSCodium/vscodium/releases) | Windows、macOS、Linux |
 | 文档阅读器       | [**KOReader**](https://github.com/koreader/koreader/releases)                                                    | Android、Linux、电子阅读器 |
 | 图像查看        | [**Aves**](https://f-droid.org/packages/deckers.thibault.aves.libre)                                             | Android             |
 | 图像处理        | [**ImageToolbox**](https://f-droid.org/packages/ru.tech.imageresizershrinker)                                    | Android             |
