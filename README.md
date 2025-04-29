@@ -1,5 +1,5 @@
 [简体中文](README.md) | [English](README_en.md)
-# Only
+# awesome-FOSS
 
 为每种用途推荐最佳的自由开源软件（FOSS）解决方案。
 

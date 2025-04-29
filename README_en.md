@@ -1,5 +1,5 @@
 [简体中文](README.md) | [English](README_en.md)
-# Only
+# awesome-FOSS
 
 Recommending the best free and open-source software (FOSS) solutions for each specific use case.
 
@@ -15,6 +15,7 @@ Recommending the best free and open-source software (FOSS) solutions for each sp
 | SSH                             | [**Tabby**](https://github.com/Eugeny/tabby)                                                                     | Windows、macOS、Linux       |
 | SSH                             | [**ConnectBot**](https://f-droid.org/packages/org.connectbot/)                                                   | Android                   |
 | Terminal Emulator               | [**Termux**](https://f-droid.org/packages/com.termux/)                                                           | Android                   |
+| IDE | [**Vscodium**](https://github.com/VSCodium/vscodium/releases) | Windows、macOS、Linux |
 | Document Reader                 | [**KOReader**](https://github.com/koreader/koreader/releases)                                                    | Android, Linux, E-Readers |
 | Image Viewer                    | [**Aves**](https://f-droid.org/packages/deckers.thibault.aves.libre)                                             | Android                   |
 | Image Processing                | [**ImageToolbox**](https://f-droid.org/packages/ru.tech.imageresizershrinker)                                    | Android                   |
