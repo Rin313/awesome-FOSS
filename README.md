@@ -13,10 +13,10 @@
 - 待定：https://codeberg.org/comaps/comaps
 #### 翻译
 #### 日历 - 🚫
-#### DOCX/XLSX查看 - 🚫
+#### DOCX/XLSX/PPTX查看 - 🚫
 #### 终端 - 🚫
 # PC
-#### IDE - [VSCode](https://github.com/microsoft/vscode)
+#### IDE - [Visual Studio Code](https://github.com/microsoft/vscode)
 #### 下载
 - 待定：https://github.com/persepolisdm/persepolis/
 - https://github.com/setvisible/ArrowDL
@@ -41,7 +41,7 @@
 #### 图像处理 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 #### EPUB/PDF/TXT查看 - [KOReader](https://github.com/koreader/koreader/releases)
 #### 局域网传输 - [LocalSend](https://github.com/localsend/localsend)
-#### 解压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
+#### 压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 #### 浏览器
 - 待定：https://codeberg.org/librewolf/source
 - https://github.com/mullvad/mullvad-browser
@@ -51,6 +51,7 @@
 - https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
 - https://addons.mozilla.org/en-US/firefox/addon/videospeed/
+- https://github.com/hanydd/BilibiliSponsorBlock
 #### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 #### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
 - 待定：https://github.com/alacritty/alacritty
