@@ -1,10 +1,5 @@
-[简体中文](README.md) | [English](README_en.md)
-
-# awesome-FOSS
-
 为每种用途推荐最佳的FOSS解决方案
-
-## mobile 
+# Mobile 
 #### 时钟 - 原生
 #### 录音机 - 原生
 #### 相机 - 原生
@@ -21,7 +16,7 @@
 #### 翻译
 #### DOCX/XLSX查看 - 🚫
 #### 终端 - 🚫
-## PC
+# PC
 #### IDE - [VSCode](https://github.com/microsoft/vscode)
 #### 下载
 - 待定：https://github.com/persepolisdm/persepolis/
@@ -34,7 +29,7 @@
 - https://github.com/k4yt3x/video2x
 #### 简历制作 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume)
 #### DOCX/XLSX编辑 - [LibreOffice](https://www.libreoffice.org/) 
-## general
+# General
 #### 文件管理 - 原生
 #### 截屏 - 原生
 #### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio) + 移动端原生
@@ -62,4 +57,4 @@
 - 待定：https://github.com/alacritty/alacritty
 - https://github.com/Eugeny/tabby
 #### 串流 - 🚫
-#### bilibili第三方 - 网页、pipepipe
+#### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
