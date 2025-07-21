@@ -5,15 +5,14 @@
 #### 相机 - 原生
 - 待定：https://github.com/GrapheneOS/Camera
 - https://sourceforge.net/projects/opencamera
-#### 日历 - 🚫
 #### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 #### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 #### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
 #### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
-#### 文档查看
 #### 地图
 - 待定：https://codeberg.org/comaps/comaps
 #### 翻译
+#### 日历 - 🚫
 #### DOCX/XLSX查看 - 🚫
 #### 终端 - 🚫
 # PC
@@ -56,5 +55,5 @@
 #### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
 - 待定：https://github.com/alacritty/alacritty
 - https://github.com/Eugeny/tabby
-#### 串流 - 🚫
 #### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
+#### 串流 - 🚫
