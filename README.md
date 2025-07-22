@@ -19,7 +19,6 @@
 #### 联系人 - 🚫
 #### 日历 - 🚫
 #### DOCX/XLSX/PPTX查看 - 🚫
-#### 终端 - 🚫
 # PC
 #### IDE - [Visual Studio Code](https://github.com/microsoft/vscode)
 #### 下载
@@ -57,7 +56,6 @@
 - https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
 - https://addons.mozilla.org/en-US/firefox/addon/videospeed/
-- https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
 - https://github.com/FilipePS/Traduzir-paginas-web
 #### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 #### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
@@ -65,9 +63,10 @@
 - https://github.com/Eugeny/tabby
 #### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
+#### 虚拟机 - 🚫
 #### launcher - 🚫
 #### 主题 - 🚫
 #### 串流 - 🚫
 #### 电池管理 - 🚫
-#### 文件清理 - 🚫
+#### 磁盘清理 - 🚫
 #### 油猴脚本 - 🚫
