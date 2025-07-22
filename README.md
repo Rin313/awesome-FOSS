@@ -6,6 +6,7 @@
 - 待定：https://github.com/GrapheneOS/Camera
 - https://sourceforge.net/projects/opencamera
 #### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
+#### 尺子 - [Bubble](https://github.com/woheller69/level)
 #### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
 待定：https://github.com/ethereal-developers/OpenScan
 #### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
@@ -66,3 +67,4 @@
 #### launcher - 🚫
 #### 串流 - 🚫
 #### 电池管理 - 🚫
+#### 文件清理 - 🚫
