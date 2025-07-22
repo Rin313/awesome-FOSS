@@ -5,13 +5,16 @@
 #### 相机 - 原生
 - 待定：https://github.com/GrapheneOS/Camera
 - https://sourceforge.net/projects/opencamera
-#### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 #### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
+#### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
+待定：https://github.com/ethereal-developers/OpenScan
+#### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 #### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
 #### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
 #### 地图
 - 待定：https://codeberg.org/comaps/comaps
 #### 翻译
+#### 联系人 - 🚫
 #### 日历 - 🚫
 #### DOCX/XLSX/PPTX查看 - 🚫
 #### 终端 - 🚫
@@ -46,15 +49,20 @@
 - 待定：https://codeberg.org/librewolf/source
 - https://github.com/mullvad/mullvad-browser
 - https://gitlab.com/ironfox-oss/IronFox
-#### 浏览器扩展 - [uBlock Origin](https://github.com/gorhill/uBlock) + [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用)
+#### 浏览器扩展 - [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用)
 - 待定：https://github.com/keleus/BewlyCat
+- https://github.com/hanydd/BilibiliSponsorBlock
 - https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
 - https://addons.mozilla.org/en-US/firefox/addon/videospeed/
-- https://github.com/hanydd/BilibiliSponsorBlock
+- https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
+- https://github.com/FilipePS/Traduzir-paginas-web
 #### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 #### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
 - 待定：https://github.com/alacritty/alacritty
 - https://github.com/Eugeny/tabby
 #### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
+- 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
+#### launcher - 🚫
 #### 串流 - 🚫
+#### 电池管理 - 🚫
