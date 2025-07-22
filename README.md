@@ -15,6 +15,7 @@
 #### 地图
 - 待定：https://codeberg.org/comaps/comaps
 #### 翻译
+- 待定：https://github.com/you-apps/TranslateYou、https://github.com/niedev/RTranslator
 #### 联系人 - 🚫
 #### 日历 - 🚫
 #### DOCX/XLSX/PPTX查看 - 🚫
@@ -65,6 +66,8 @@
 #### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 #### launcher - 🚫
+#### 主题 - 🚫
 #### 串流 - 🚫
 #### 电池管理 - 🚫
 #### 文件清理 - 🚫
+#### 油猴脚本 - 🚫
