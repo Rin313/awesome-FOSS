@@ -1,4 +1,3 @@
-为每种用途推荐最佳的FOSS解决方案
 # Mobile 
 #### 时钟 - 原生
 #### 录音机 - 原生
@@ -15,15 +14,13 @@
 #### 地图
 - 待定：https://codeberg.org/comaps/comaps
 #### 翻译
-- 待定：https://github.com/you-apps/TranslateYou、https://github.com/niedev/RTranslator
+- 待定：https://github.com/you-apps/TranslateYou
+- https://github.com/niedev/RTranslator
 #### 联系人 - 🚫
 #### 日历 - 🚫
 #### DOCX/XLSX/PPTX查看 - 🚫
 # PC
 #### IDE - [Visual Studio Code](https://github.com/microsoft/vscode)
-#### 下载
-- 待定：https://github.com/persepolisdm/persepolis/
-- https://github.com/setvisible/ArrowDL
 #### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
 #### 系统备份 - [Rescuezilla](https://github.com/rescuezilla/rescuezilla)
 #### 图片放大 - [Upscayl](https://github.com/upscayl/upscayl)
@@ -55,17 +52,20 @@
 - https://github.com/hanydd/BilibiliSponsorBlock
 - https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
-- https://addons.mozilla.org/en-US/firefox/addon/videospeed/
 - https://github.com/FilipePS/Traduzir-paginas-web
 #### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
+- 待定：https://github.com/rime/weasel
+- https://github.com/gaboolic/rime-frost
+- https://github.com/Mintimate/oh-my-rime
+- https://github.com/florisboard/florisboard
+- https://github.com/Helium314/HeliBoard
 #### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
 - 待定：https://github.com/alacritty/alacritty
 - https://github.com/Eugeny/tabby
 #### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 #### 虚拟机 - 🚫
-#### launcher - 🚫
-#### 主题 - 🚫
+#### 主题/启动器 - 🚫
 #### 串流 - 🚫
 #### 电池管理 - 🚫
 #### 磁盘清理 - 🚫
