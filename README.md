@@ -6,6 +6,7 @@
 - https://sourceforge.net/projects/opencamera
 #### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 #### 尺子 - [Bubble](https://github.com/woheller69/level)
+#### 经期跟踪 - [drip](https://gitlab.com/bloodyhealth/drip)
 #### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
 - 待定：https://github.com/ethereal-developers/OpenScan
 #### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
@@ -19,6 +20,8 @@
 #### 联系人 - 🚫
 #### 日历 - 🚫
 #### DOCX/XLSX/PPTX查看 - 🚫
+#### 记账 - 🚫
+#### 番茄钟 - 🚫
 #### 噪音测量 - 🚫
 # PC
 #### IDE - [Visual Studio Code](https://github.com/microsoft/vscode)
