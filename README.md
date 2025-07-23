@@ -7,7 +7,7 @@
 #### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 #### 尺子 - [Bubble](https://github.com/woheller69/level)
 #### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
-待定：https://github.com/ethereal-developers/OpenScan
+- 待定：https://github.com/ethereal-developers/OpenScan
 #### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 #### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
 #### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
@@ -19,6 +19,7 @@
 #### 联系人 - 🚫
 #### 日历 - 🚫
 #### DOCX/XLSX/PPTX查看 - 🚫
+#### 噪音测量 - 🚫
 # PC
 #### IDE - [Visual Studio Code](https://github.com/microsoft/vscode)
 #### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
@@ -65,8 +66,9 @@
 #### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 #### 虚拟机 - 🚫
-#### 主题/启动器 - 🚫
+#### 油猴脚本 - 🚫
 #### 串流 - 🚫
+#### 主题/启动器 - 🚫
 #### 电池管理 - 🚫
 #### 磁盘清理 - 🚫
-#### 油猴脚本 - 🚫
+#### 元数据删除 - 🚫
