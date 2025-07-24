@@ -25,7 +25,8 @@
 ### 噪音测量 - 🚫
 ### 指南针 - 🚫
 # PC
-### IDE - [Visual Studio Code](https://github.com/microsoft/vscode)
+### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
+- *⚠：使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
 ### 系统备份 - [Rescuezilla](https://github.com/rescuezilla/rescuezilla)
 ### 图片放大 - [Upscayl](https://github.com/upscayl/upscayl)
@@ -33,7 +34,9 @@
 - 待定：https://github.com/TNTwise/REAL-Video-Enhancer
 - https://github.com/k4yt3x/video2x
 ### 简历制作 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume)
-### DOCX/XLSX编辑 - [LibreOffice](https://www.libreoffice.org/) 
+### DOCX/XLSX编辑 - [LibreOffice](https://www.libreoffice.org/)
+### 游戏模拟器
+- 待定：https://github.com/libretro/RetroArch 
 # General
 ### 文件管理 - 原生
 ### 截屏 - 原生
