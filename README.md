@@ -40,6 +40,10 @@
 ### 文件管理 - 原生
 ### 截屏 - 原生
 ### 启动器 - 🚫 + 移动端原生
+### 音乐播放
+- 待定：https://github.com/FoedusProgramme/Gramophone
+- https://github.com/RetroMusicPlayer/RetroMusicPlayer
+- https://github.com/OxygenCobalt/Auxio
 ### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio) + 移动端原生
 ### 应用管理 - [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
 - 待定：https://github.com/marticliment/UniGetUI
