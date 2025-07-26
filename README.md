@@ -7,15 +7,14 @@
 ### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 ### 尺子 - [Bubble](https://github.com/woheller69/level)
 ### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
-- 待定：https://github.com/ethereal-developers/OpenScan
-### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
-### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
-### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
-### 地图
-- 待定：https://codeberg.org/comaps/comaps
 ### 翻译
 - 待定：https://github.com/you-apps/TranslateYou
 - https://github.com/niedev/RTranslator
+### 地图
+- 待定：https://codeberg.org/comaps/comaps
+### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
+### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
+### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
 ### 经期跟踪（按需选用） - [drip](https://gitlab.com/bloodyhealth/drip)
 ### 联系人 - 🚫
 ### 日历 - 🚫
@@ -26,7 +25,7 @@
 ### 指南针 - 🚫
 # PC
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
-- *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
+> *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
 ### 系统备份 - [Rescuezilla](https://github.com/rescuezilla/rescuezilla)
 ### 图片放大 - [Upscayl](https://github.com/upscayl/upscayl)
