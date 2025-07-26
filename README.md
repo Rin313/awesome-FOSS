@@ -50,6 +50,7 @@
 ### 图像处理 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 ### EPUB/PDF/TXT查看 - [KOReader](https://github.com/koreader/koreader/releases)
 ### 局域网传输 - [LocalSend](https://github.com/localsend/localsend)
+### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 ### 浏览器
 - 待定：https://codeberg.org/librewolf/source
