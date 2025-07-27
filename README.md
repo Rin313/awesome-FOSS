@@ -8,8 +8,10 @@
 ### 尺子 - [Bubble](https://github.com/woheller69/level)
 ### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
 ### 翻译
-- 待定：https://github.com/you-apps/TranslateYou
+- 待定：https://github.com/argosopentech/argos-translate
 - https://github.com/niedev/RTranslator
+- https://github.com/LibreTranslate/LibreTranslate
+- https://github.com/you-apps/TranslateYou
 ### 地图
 - 待定：https://codeberg.org/comaps/comaps
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
