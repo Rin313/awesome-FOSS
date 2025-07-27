@@ -55,7 +55,7 @@
 ### 图像查看 - PC原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像处理 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 ### EPUB/PDF/TXT查看 - [KOReader](https://github.com/koreader/koreader/releases)
-### 局域网传输 - [LocalSend](https://github.com/localsend/localsend)
+### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
 ### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
 ### 浏览器
@@ -89,3 +89,10 @@
 # Android ROM
 - 待定：https://github.com/GrapheneOS
 - https://github.com/lineageos
+# Online
+### Open Source
+- [Anna’s Archive](https://software.annas-archive.li/AnnaArchivist/annas-archive)
+- [Open Library](https://github.com/internetarchive/openlibrary)
+### Proprietary
+- [Internet Archive](https://archive.org/)
+- [Z-Library](https://z-library.sk/)
