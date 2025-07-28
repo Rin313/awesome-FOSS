@@ -63,11 +63,11 @@
 - https://github.com/mullvad/mullvad-browser
 - https://gitlab.com/ironfox-oss/IronFox
 ### 浏览器扩展 - [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用)
-- 待定：https://github.com/keleus/BewlyCat
-- https://github.com/hanydd/BilibiliSponsorBlock
-- https://github.com/ken107/read-aloud
+- 待定：https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
 - https://github.com/FilipePS/Traduzir-paginas-web
+- https://github.com/keleus/BewlyCat
+- https://github.com/hanydd/BilibiliSponsorBlock
 ### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 - 待定：https://github.com/rime/weasel
 - https://github.com/gaboolic/rime-frost
@@ -77,7 +77,7 @@
 ### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
 - 待定：https://github.com/alacritty/alacritty
 - https://github.com/Eugeny/tabby
-### bilibili第三方 - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
+### bilibili - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 ### 虚拟机 - 🚫
 ### 油猴脚本 - 🚫
@@ -93,6 +93,8 @@
 ### Open Source
 - [Anna’s Archive](https://software.annas-archive.li/AnnaArchivist/annas-archive)
 - [Open Library](https://github.com/internetarchive/openlibrary)
+- [MusicBrainz](https://alternativeto.net/software/musicbrainz/about/)
+- [Wikipedia](https://www.wikipedia.org/)
 ### Proprietary
 - [Internet Archive](https://archive.org/)
 - [Z-Library](https://z-library.sk/)
