@@ -95,6 +95,9 @@
 - [Open Library](https://github.com/internetarchive/openlibrary)
 - [MusicBrainz](https://alternativeto.net/software/musicbrainz/about/)
 - [Wikipedia](https://www.wikipedia.org/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [itch.io](https://itch.io/)
 ### Proprietary
 - [Internet Archive](https://archive.org/)
 - [Z-Library](https://z-library.sk/)
+- [The Pirate Bay](https://thepiratebay.org/)(Proprietary)
