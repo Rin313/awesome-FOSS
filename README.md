@@ -1,6 +1,6 @@
 # Mobile 
 ### 时钟 - 原生
-### 录音机 - 原生
+### 录音机 - [Alibi](https://github.com/Myzel394/Alibi)
 ### 相机 - [Secure Camera](https://github.com/GrapheneOS/Camera)
 ### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 ### 尺子 - [Bubble](https://github.com/woheller69/level)
@@ -37,7 +37,8 @@
 ### 游戏模拟器
 - 待定：https://github.com/libretro/RetroArch 
 # General
-### 文件管理 - 原生
+### 文件管理 - PC原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
+> *如果AOSP的DocumentsUI可用，那么Material Files可能是不必要的*
 ### 截屏 - 原生
 ### 启动器 - 🚫 + 移动端原生
 ### 音乐播放
