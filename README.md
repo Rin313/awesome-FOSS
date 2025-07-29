@@ -15,7 +15,7 @@
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 ### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
 ### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
-### 经期跟踪（按需选用） - [drip](https://gitlab.com/bloodyhealth/drip)
+### 经期跟踪 - [drip](https://gitlab.com/bloodyhealth/drip)
 ### 联系人 - 🚫
 ### 日历 - 🚫
 ### DOCX/XLSX/PPTX查看 - 🚫
@@ -65,8 +65,6 @@
 - https://github.com/dessant/search-by-image
 - https://github.com/FilipePS/Traduzir-paginas-web
 - https://github.com/ajayyy/SponsorBlock
-- https://github.com/keleus/BewlyCat
-- https://github.com/hanydd/BilibiliSponsorBlock
 ### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 - 待定：https://github.com/rime/weasel
 - https://github.com/gaboolic/rime-frost
@@ -76,7 +74,7 @@
 ### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
 - 待定：https://github.com/alacritty/alacritty
 - https://github.com/Eugeny/tabby
-### bilibili - 网页 + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
+### bilibili - 网页 + [BewlyCat](https://github.com/keleus/BewlyCat) + [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 ### 虚拟机 - 🚫
 ### 油猴脚本 - 🚫
