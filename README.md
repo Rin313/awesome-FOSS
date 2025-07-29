@@ -1,9 +1,7 @@
 # Mobile 
 ### 时钟 - 原生
 ### 录音机 - 原生
-### 相机 - 原生
-- 待定：https://github.com/GrapheneOS/Camera
-- https://sourceforge.net/projects/opencamera
+### 相机 - [Secure Camera](https://github.com/GrapheneOS/Camera)
 ### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 ### 尺子 - [Bubble](https://github.com/woheller69/level)
 ### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
@@ -104,4 +102,4 @@
 - [Mod DB](https://www.moddb.com/)
 - [Internet Archive](https://archive.org/)
 - [Z-Library](https://z-library.sk/)
-- [The Pirate Bay](https://thepiratebay.org/)(Proprietary)
+- [The Pirate Bay](https://thepiratebay.org/)
