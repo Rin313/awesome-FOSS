@@ -97,9 +97,11 @@
 - [MusicBrainz](https://alternativeto.net/software/musicbrainz/about/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [OpenStreetMap](https://www.openstreetmap.org/)
+- [Codeberg](https://codeberg.org/)
 - [itch.io](https://itch.io/)
 - [Liberapay](https://liberapay.com/)
 ### Proprietary
+- [Mod DB](https://www.moddb.com/)
 - [Internet Archive](https://archive.org/)
 - [Z-Library](https://z-library.sk/)
 - [The Pirate Bay](https://thepiratebay.org/)(Proprietary)
