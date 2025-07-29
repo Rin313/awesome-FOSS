@@ -66,6 +66,7 @@
 - 待定：https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
 - https://github.com/FilipePS/Traduzir-paginas-web
+- https://github.com/ajayyy/SponsorBlock
 - https://github.com/keleus/BewlyCat
 - https://github.com/hanydd/BilibiliSponsorBlock
 ### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
@@ -97,6 +98,7 @@
 - [Wikipedia](https://www.wikipedia.org/)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [itch.io](https://itch.io/)
+- [Liberapay](https://liberapay.com/)
 ### Proprietary
 - [Internet Archive](https://archive.org/)
 - [Z-Library](https://z-library.sk/)
