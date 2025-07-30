@@ -53,7 +53,8 @@
 - https://github.com/accrescent/accrescent
 ### 图像查看 - PC原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像处理 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
-### EPUB/PDF/TXT查看 - [KOReader](https://github.com/koreader/koreader/releases)
+### EPUB/PDF/TXT阅读 - [KOReader](https://github.com/koreader/koreader)
+### 漫画阅读 - [Mihon](https://github.com/mihonapp/mihon)
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
 ### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
