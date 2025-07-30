@@ -38,7 +38,7 @@
 - 待定：https://github.com/libretro/RetroArch 
 # General
 ### 文件管理 - PC原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
-> *如果AOSP的DocumentsUI可用，那么Material Files可能是不必要的*
+> 如果AOSP的DocumentsUI可用，那么Material Files可能是不必要的
 ### 截屏 - 原生
 ### 启动器 - 🚫 + 移动端原生
 ### 音乐播放
@@ -57,6 +57,7 @@
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
 ### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
+### torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) + [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
 ### 浏览器
 - 待定：https://codeberg.org/librewolf/source
 - https://github.com/mullvad/mullvad-browser
