@@ -1,4 +1,5 @@
 # Mobile 
+### 启动器 - 原生
 ### 时钟 - 原生
 ### 录音机 - [Alibi](https://github.com/Myzel394/Alibi)
 ### 相机 - [Secure Camera](https://github.com/GrapheneOS/Camera)
@@ -40,7 +41,6 @@
 ### 文件管理 - PC原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
 > 如果AOSP的DocumentsUI可用，那么Material Files可能是不必要的
 ### 截屏 - 原生
-### 启动器 - 🚫 + 移动端原生
 ### 音乐播放
 - 待定：https://github.com/FoedusProgramme/Gramophone
 - https://github.com/RetroMusicPlayer/RetroMusicPlayer
