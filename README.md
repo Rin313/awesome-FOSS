@@ -54,6 +54,7 @@
 ### 图像查看 - PC原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像处理 - [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 ### EPUB/PDF/TXT阅读 - [KOReader](https://github.com/koreader/koreader)
+- 待定：https://github.com/readest/readest
 ### 漫画阅读 - [Mihon](https://github.com/mihonapp/mihon)
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
 ### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
@@ -93,14 +94,14 @@
 - https://github.com/lineageos
 # Online
 ### Open Source
-- [Anna’s Archive](https://software.annas-archive.li/AnnaArchivist/annas-archive)
-- [Open Library](https://github.com/internetarchive/openlibrary)
-- [MusicBrainz](https://alternativeto.net/software/musicbrainz/about/)
+- [Anna’s Archive](https://annas-archive.org/)
+- [MusicBrainz](https://musicbrainz.org/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Codeberg](https://codeberg.org/)
 - [itch.io](https://itch.io/)
 - [Liberapay](https://liberapay.com/)
+- [Open Library](https://openlibrary.org/)
 ### Proprietary
 - [Mod DB](https://www.moddb.com/)
 - [Internet Archive](https://archive.org/)
