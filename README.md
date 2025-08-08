@@ -34,6 +34,8 @@
 - 待定：https://github.com/TNTwise/REAL-Video-Enhancer
 - https://github.com/k4yt3x/video2x
 ### 简历制作 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### 证件照制作
+- 待定：https://github.com/aoguai/LiYing
 ### DOCX/XLSX编辑 - [LibreOffice](https://www.libreoffice.org/)
 ### 游戏模拟器
 - 待定：https://github.com/libretro/RetroArch 
