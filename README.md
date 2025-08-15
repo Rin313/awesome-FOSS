@@ -73,6 +73,7 @@
 - https://github.com/dessant/search-by-image
 - https://github.com/FilipePS/Traduzir-paginas-web
 - https://github.com/ajayyy/SponsorBlock
+- https://github.com/violentmonkey/violentmonkey
 ### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 - 待定：https://github.com/rime/weasel
 - https://github.com/gaboolic/rime-frost
@@ -91,9 +92,10 @@
 ### 电池管理 - 🚫
 ### 磁盘清理 - 🚫
 ### 元数据删除 - 🚫
-# Android ROM
+# Operating System
 - 待定：https://github.com/GrapheneOS
 - https://github.com/lineageos
+- https://fedoraproject.org/
 # Online
 ### Open Source
 - [Anna’s Archive](https://annas-archive.org/)
