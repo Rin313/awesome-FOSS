@@ -16,7 +16,7 @@
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 ### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
 ### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
-### 经期跟踪 - [drip](https://gitlab.com/bloodyhealth/drip)
+### 经期管理 - 🚫
 ### 联系人 - 🚫
 ### 日历 - 🚫
 ### DOCX/XLSX/PPTX查看 - 🚫
