@@ -1,6 +1,4 @@
 # Mobile 
-### 启动器 - 原生
-### 时钟 - 原生
 ### 录音机 - [Alibi](https://github.com/Myzel394/Alibi)
 ### 相机 - [Secure Camera](https://github.com/GrapheneOS/Camera)
 ### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
@@ -16,6 +14,11 @@
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 ### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
 ### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
+### 启动器 - 原生
+### 时钟 - 原生
+### 屏幕录制 - 🚫
+### 代理 - 🚫
+### 压缩 - 🚫
 ### 经期管理 - 🚫
 ### 联系人 - 🚫
 ### 日历 - 🚫
@@ -27,6 +30,12 @@
 # PC
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
+### SSH
+- 待定：https://github.com/alacritty/alacritty
+- https://github.com/Eugeny/tabby
+### Torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+### 压缩 - [7zip](https://github.com/ip7z/7zip)
+### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio)
 ### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
 ### 系统备份 - [Rescuezilla](https://github.com/rescuezilla/rescuezilla)
 ### 图片放大 - [Upscayl](https://github.com/upscayl/upscayl)
@@ -48,7 +57,6 @@
 - 待定：https://github.com/FoedusProgramme/Gramophone
 - https://github.com/RetroMusicPlayer/RetroMusicPlayer
 - https://github.com/OxygenCobalt/Auxio
-### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio) + 移动端原生
 ### 应用管理 - [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
 - 待定：https://github.com/marticliment/UniGetUI
 - https://github.com/ScoopInstaller/Scoop 
@@ -62,8 +70,6 @@
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
 ### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
 > 非局域网的远程控制需要自托管服务器
-### 压缩 - [7zip](https://github.com/ip7z/7zip) + [ZipXtract](https://github.com/WirelessAlien/ZipXtract)
-### torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) + [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
 ### 浏览器 - [LibreWolf](https://codeberg.org/librewolf/source)
 - 待定：https://gitlab.com/ironfox-oss/IronFox
 - https://redmine.stoutner.com/projects/privacy-browser
@@ -79,9 +85,6 @@
 - https://github.com/Mintimate/oh-my-rime
 - https://github.com/florisboard/florisboard
 - https://github.com/Helium314/HeliBoard
-### SSH - [ConnectBot](https://github.com/connectbot/connectbot)
-- 待定：https://github.com/alacritty/alacritty
-- https://github.com/Eugeny/tabby
 ### bilibili - 网页 + [BewlyCat](https://github.com/keleus/BewlyCat) + [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 ### 虚拟机 - 🚫
