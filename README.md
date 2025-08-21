@@ -25,6 +25,7 @@
 ### DOCX/XLSX/PPTX查看 - 🚫
 ### 记账 - 🚫
 ### 番茄钟 - 🚫
+### 虚拟定位 - 🚫
 ### 噪音测量 - 🚫
 ### 指南针 - 🚫
 # PC
@@ -46,7 +47,9 @@
 ### 证件照制作
 - 待定：https://github.com/aoguai/LiYing
 ### 问卷创建 - [Formbricks](https://github.com/formbricks/formbricks)
-### DOCX/XLSX编辑 - [LibreOffice](https://www.libreoffice.org/)
+### DOCX/XLSX编辑
+- 待定：https://www.libreoffice.org/
+- https://www.onlyoffice.com/desktop.aspx
 ### 游戏模拟器
 - 待定：https://github.com/libretro/RetroArch 
 # General
@@ -77,7 +80,6 @@
 ### 浏览器扩展 - [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用) + [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
 - 待定：https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
-- https://github.com/FilipePS/Traduzir-paginas-web
 - https://github.com/ajayyy/SponsorBlock
 ### 输入法 - [fcitx5-android](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 - 待定：https://github.com/rime/weasel
