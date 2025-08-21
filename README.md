@@ -31,9 +31,7 @@
 # PC
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
-### SSH
-- 待定：https://github.com/alacritty/alacritty
-- https://github.com/Eugeny/tabby
+### SSH - [Tabby](https://github.com/Eugeny/tabby)
 ### Torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip)
 ### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio)
