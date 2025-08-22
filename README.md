@@ -97,18 +97,18 @@
 - https://fedoraproject.org/
 # Online
 ### Open Source
-- [Anna’s Archive](https://annas-archive.org/)
-- [MusicBrainz](https://musicbrainz.org/)
-- [Wikipedia](https://www.wikipedia.org/)
-- [OpenStreetMap](https://www.openstreetmap.org/)
-- [Codeberg](https://codeberg.org/)
-- [itch.io](https://itch.io/)
-- [Liberapay](https://liberapay.com/)
-- [Open Library](https://openlibrary.org/)
+- [Anna’s Archive](https://annas-archive.org/) — 影子图书馆的聚合搜索与镜像索引。
+- [MusicBrainz](https://musicbrainz.org/) — 开放音乐元数据库。
+- [Wikipedia](https://www.wikipedia.org/) — 自由协作的百科全书。
+- [OpenStreetMap](https://www.openstreetmap.org/) — 开放地图数据项目。
+- [Codeberg](https://codeberg.org/) — 非营利的 Git 代码托管平台。
+- [itch.io](https://itch.io/) — 独立游戏发布与分发平台。
+- [Liberapay](https://liberapay.com/) — 创作者定期捐赠平台。
+- [Open Library](https://openlibrary.org/) — Internet Archive 的开放书目与数字借阅。
 ### Proprietary
-- [Mod DB](https://www.moddb.com/)
-- [Internet Archive](https://archive.org/)
-- [Z-Library](https://z-library.sk/)
-- [The Pirate Bay](https://thepiratebay.org/)
-- [Incompetech](https://incompetech.com/)
-- [FLiNG](https://flingtrainer.com/)
+- [Mod DB](https://www.moddb.com/) — 游戏 Mod 社区与下载库。
+- [Internet Archive](https://archive.org/) — 非营利数字图书馆与文化档案库。
+- [Z-Library](https://z-library.sk/) — 大型电子书检索与下载站。
+- [The Pirate Bay](https://thepiratebay.org/) — BitTorrent 种子与磁链索引站。
+- [Incompetech](https://incompetech.com/) — Kevin MacLeod 的免版税/CC 授权音乐库。
+- [FLiNG](https://flingtrainer.com/) — PC游戏修改器发布。
