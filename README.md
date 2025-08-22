@@ -72,9 +72,7 @@
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
 ### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
 > 非局域网的远程控制需要自托管服务器
-### 浏览器 - [LibreWolf](https://codeberg.org/librewolf/source)
-- 待定：https://gitlab.com/ironfox-oss/IronFox
-- https://redmine.stoutner.com/projects/privacy-browser
+### 浏览器 - [LibreWolf](https://codeberg.org/librewolf/source) + [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 ### 浏览器扩展 - [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用) + [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
 - 待定：https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
