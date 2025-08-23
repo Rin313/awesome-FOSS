@@ -36,9 +36,7 @@
 ### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
 ### 系统备份 - [Rescuezilla](https://github.com/rescuezilla/rescuezilla)
 ### 图片放大 - [Upscayl](https://github.com/upscayl/upscayl)
-### 视频超分
-- 待定：https://github.com/TNTwise/REAL-Video-Enhancer
-- https://github.com/k4yt3x/video2x
+### 视频超分 - [Video2x](https://github.com/k4yt3x/video2x)
 ### 简历制作 - [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume)
 ### 证件照制作
 - 待定：https://github.com/aoguai/LiYing
