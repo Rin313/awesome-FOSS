@@ -54,10 +54,8 @@
 - https://github.com/FoedusProgramme/Gramophone
 - https://github.com/RetroMusicPlayer/RetroMusicPlayer
 - https://github.com/OxygenCobalt/Auxio
-### 应用管理 - [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
-- 待定：https://github.com/marticliment/UniGetUI
-- https://github.com/ScoopInstaller/Scoop 
-- https://github.com/ImranR98/Obtainium
+### 应用管理 - PC原生 + [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
+- 待定：https://github.com/ImranR98/Obtainium
 - https://github.com/accrescent/accrescent
 ### 图像查看 - PC原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像编辑 - [GIMP](https://gitlab.gnome.org/GNOME/gimp) + [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
