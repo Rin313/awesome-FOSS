@@ -73,8 +73,6 @@
 - 待定：https://github.com/rime/weasel
 - https://github.com/gaboolic/rime-frost
 - https://github.com/Mintimate/oh-my-rime
-- https://github.com/florisboard/florisboard
-- https://github.com/Helium314/HeliBoard
 ### bilibili - [BewlyCat](https://github.com/keleus/BewlyCat) + [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [防止视频被自动暂停及弹出登录窗口](https://greasyfork.org/zh-CN/scripts/467474-bilibili-%E9%98%B2%E6%AD%A2%E8%A7%86%E9%A2%91%E8%A2%AB%E8%87%AA%E5%8A%A8%E6%9A%82%E5%81%9C%E5%8F%8A%E5%BC%B9%E5%87%BA%E7%99%BB%E5%BD%95%E7%AA%97%E5%8F%A3) + [在未登录的情况下照常加载评论](https://greasyfork.org/zh-CN/scripts/473498-bilibili-%E5%9C%A8%E6%9C%AA%E7%99%BB%E5%BD%95%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E7%85%A7%E5%B8%B8%E5%8A%A0%E8%BD%BD%E8%AF%84%E8%AE%BA) + [pipepipe](https://github.com/InfinityLoop1308/PipePipe)
 - 待定：https://github.com/bggRGjQaUbCoE/PiliPlus
 ### youtube - [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
