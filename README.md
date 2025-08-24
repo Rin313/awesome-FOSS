@@ -86,21 +86,22 @@
 - 待定：https://fedoraproject.org/
 # Online
 ### Open Source
-- [Anna’s Archive](https://annas-archive.org/) - 影子图书馆的聚合搜索与镜像索引。
-- [MusicBrainz](https://musicbrainz.org/) - 开放音乐元数据库。
+- [Anna’s Archive](https://annas-archive.org/) - 影子图书馆的聚合搜索。
+- [Open Library](https://openlibrary.org/) - 图书馆。
+- [MusicBrainz](https://musicbrainz.org/) - 音乐元数据库。
 - [Wikipedia](https://www.wikipedia.org/) - 自由协作的百科全书。
-- [OpenStreetMap](https://www.openstreetmap.org/) - 开放地图数据项目。
-- [Codeberg](https://codeberg.org/) - 非营利 Git 代码托管平台。
-- [itch.io](https://itch.io/) - 独立游戏发布与分发平台。
-- [Liberapay](https://liberapay.com/) - 创作者定期捐赠平台。
-- [Open Library](https://openlibrary.org/) - Internet Archive 的开放书目与数字借阅。
+- [OpenStreetMap](https://www.openstreetmap.org/) - 开源地理数据项目。
+- [Codeberg](https://codeberg.org/) - Git 代码托管平台。
+- [itch.io](https://itch.io/) - 独立游戏平台。
+- [Liberapay](https://liberapay.com/) - 面向创作者的定期捐赠平台。
 ### Proprietary
-- [Mod DB](https://www.moddb.com/) - 游戏 Mod 社区与下载库。
+- [Mod DB](https://www.moddb.com/) - 游戏 Mod 社区。
 - [Internet Archive](https://archive.org/) - 非营利数字图书馆与文化档案库。
-- [Z-Library](https://z-library.sk/) - 影子图书馆电子书检索与下载站。
-- [The Pirate Bay](https://thepiratebay.org/) - BitTorrent 种子与磁链索引站。
-- [Incompetech](https://incompetech.com/) - Kevin MacLeod 的 CC 授权音乐库。
-- [FLiNG](https://flingtrainer.com/) - PC游戏修改器发布站。
+- [Z-Library](https://z-library.sk/) - 影子图书馆。
+- [The Pirate Bay](https://thepiratebay.org/) - BT搜索。
+- [Incompetech](https://incompetech.com/) - Kevin MacLeod 的免版税音乐库。
+- [FLiNG](https://flingtrainer.com/) - PC游戏修改器。
+- [Project Gutenberg](https://www.gutenberg.org/) - 免费电子书。
 # Principle
 - 最小化软件需求。 by Rin
 - 将软件需求拆分到桌面端和移动端。 by Rin
