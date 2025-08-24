@@ -96,12 +96,12 @@
 - [Liberapay](https://liberapay.com/) - 面向创作者的定期捐赠平台。
 ### Proprietary
 - [Mod DB](https://www.moddb.com/) - 游戏 Mod 社区。
-- [Internet Archive](https://archive.org/) - 非营利数字图书馆与文化档案库。
+- [Internet Archive](https://archive.org/) - 互联网档案馆。
 - [Z-Library](https://z-library.sk/) - 影子图书馆。
+- [Project Gutenberg](https://www.gutenberg.org/) - 英文书籍为主的免费电子书。
 - [The Pirate Bay](https://thepiratebay.org/) - BT搜索。
 - [Incompetech](https://incompetech.com/) - Kevin MacLeod 的免版税音乐库。
 - [FLiNG](https://flingtrainer.com/) - PC游戏修改器。
-- [Project Gutenberg](https://www.gutenberg.org/) - 免费电子书。
 # Principle
 - 最小化软件需求。 by Rin
 - 将软件需求拆分到桌面端和移动端。 by Rin
