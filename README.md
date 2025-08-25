@@ -14,7 +14,7 @@
 ### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
 ### 启动器 - 原生
 ### 时钟 - 原生
-### 🚫 - 屏幕录制、代理、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
+### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
 # PC
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
@@ -35,6 +35,10 @@
 - https://www.onlyoffice.com/desktop.aspx
 ### 游戏模拟器
 - 待定：https://github.com/libretro/RetroArch 
+### 代理
+- 待定：https://github.com/SagerNet/sing-box
+- https://github.com/2dust/v2rayN
+- https://github.com/clash-verge-rev/clash-verge-rev
 # General
 ### 文件管理 - PC原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
 ### 截屏 - 原生
