@@ -7,7 +7,6 @@
 ### 翻译
 - 待定：https://github.com/argosopentech/argos-translate
 - https://github.com/niedev/RTranslator
-- https://github.com/you-apps/TranslateYou
 ### 地图
 - 待定：https://codeberg.org/comaps/comaps
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
@@ -84,6 +83,7 @@
 ### 元数据删除 - 🚫
 # Operating System
 - 待定：https://fedoraproject.org/
+- https://get.opensuse.org/tumbleweed
 # Online
 ### Open Source
 - [Anna’s Archive](https://annas-archive.org/) - 影子图书馆的聚合搜索。
