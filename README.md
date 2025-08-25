@@ -62,7 +62,7 @@
 - 待定：https://github.com/readest/readest
 ### 漫画阅读 - [Mihon](https://github.com/mihonapp/mihon)
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
-### 远程控制 - [RustDesk](https://github.com/rustdesk/rustdesk)
+### 远程桌面 - [RustDesk](https://github.com/rustdesk/rustdesk)
 > 非局域网的远程控制需要自托管服务器
 ### 浏览器 - [LibreWolf](https://codeberg.org/librewolf/source) + [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 ### 浏览器扩展 - [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用) + [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
@@ -94,6 +94,7 @@
 - [Codeberg](https://codeberg.org/) - Git 代码托管平台。
 - [itch.io](https://itch.io/) - 独立游戏平台。
 - [Liberapay](https://liberapay.com/) - 面向创作者的定期捐赠平台。
+- [The Visual Novel Database](https://vndb.org/) - 视觉小说数据库。
 ### Proprietary
 - [Mod DB](https://www.moddb.com/) - 游戏 Mod 社区。
 - [Internet Archive](https://archive.org/) - 互联网档案馆。
