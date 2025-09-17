@@ -4,11 +4,7 @@
 ### 计算器 - [CalcYou](https://github.com/you-apps/CalcYou)
 ### 尺子 - [Bubble](https://github.com/woheller69/level)
 ### 文档扫描 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
-### 翻译
-- 待定：https://github.com/argosopentech/argos-translate
-- https://github.com/niedev/RTranslator
-### 地图
-- 待定：https://codeberg.org/comaps/comaps
+### 地图 - [CoMaps](https://codeberg.org/comaps/comaps)
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 ### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
 ### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
@@ -54,6 +50,8 @@
 - 待定：https://github.com/readest/readest
 ### 漫画阅读 - [Mihon](https://github.com/mihonapp/mihon)
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
+### 翻译 - [RTranslator](https://github.com/niedev/RTranslator)
+> 对于桌面端，请在LibreWolf中访问[about:translations#src=en&trg=zh-Hans](about:translations#src=en&trg=zh-Hans)
 ### 远程桌面 - [RustDesk](https://github.com/rustdesk/rustdesk)
 > 非局域网的远程控制需要自托管服务器
 ### 浏览器 - [LibreWolf](https://codeberg.org/librewolf/source) + [IronFox](https://gitlab.com/ironfox-oss/IronFox) + [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用) + [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
