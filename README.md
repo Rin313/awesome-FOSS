@@ -46,17 +46,16 @@
 - 待定：https://github.com/ImranR98/Obtainium
 ### 图像查看 - PC原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像编辑 - [GIMP](https://gitlab.gnome.org/GNOME/gimp) + [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
-### EPUB/PDF/TXT阅读 - [KOReader](https://github.com/koreader/koreader)
-- 待定：https://github.com/readest/readest
+### EPUB/PDF/TXT阅读 - [Readest](https://github.com/readest/readest)
 ### 漫画阅读 - [Mihon](https://github.com/mihonapp/mihon)
 ### 局域网共享 - [LocalSend](https://github.com/localsend/localsend)
-### 翻译 - [RTranslator](https://github.com/niedev/RTranslator)
-> 对于桌面端，请在LibreWolf中访问[about:translations#src=en&trg=zh-Hans](about:translations#src=en&trg=zh-Hans)
 ### 远程桌面 - [RustDesk](https://github.com/rustdesk/rustdesk)
 > 非局域网的远程控制需要自托管服务器
 ### 浏览器 - [LibreWolf](https://codeberg.org/librewolf/source) + [IronFox](https://gitlab.com/ironfox-oss/IronFox) + [uBlock Origin](https://github.com/gorhill/uBlock) + [SingleFile](https://github.com/gildas-lormeau/SingleFile) + [uBlacklist](https://github.com/iorate/ublacklist)(搭配[uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation)食用) + [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
 - 待定：https://github.com/ken107/read-aloud
 - https://github.com/dessant/search-by-image
+### 翻译 - [RTranslator](https://github.com/niedev/RTranslator)
+> 对于桌面端，请在LibreWolf中访问 <about:translations#src=en&trg=zh-Hans>
 ### 输入法 - [fcitx5](https://github.com/fcitx/fcitx5) + [雾凇拼音](https://github.com/gaboolic/rime-frost)
 > 更多版本参见 [rime.im](https://rime.im/download/)
 ### bilibili - [BewlyCat](https://github.com/keleus/BewlyCat) + [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [防止视频被自动暂停及弹出登录窗口](https://greasyfork.org/zh-CN/scripts/467474-bilibili-%E9%98%B2%E6%AD%A2%E8%A7%86%E9%A2%91%E8%A2%AB%E8%87%AA%E5%8A%A8%E6%9A%82%E5%81%9C%E5%8F%8A%E5%BC%B9%E5%87%BA%E7%99%BB%E5%BD%95%E7%AA%97%E5%8F%A3) + [在未登录的情况下照常加载评论](https://greasyfork.org/zh-CN/scripts/473498-bilibili-%E5%9C%A8%E6%9C%AA%E7%99%BB%E5%BD%95%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E7%85%A7%E5%B8%B8%E5%8A%A0%E8%BD%BD%E8%AF%84%E8%AE%BA) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
