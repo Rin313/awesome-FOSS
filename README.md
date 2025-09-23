@@ -11,7 +11,7 @@
 ### 启动器 - 原生
 ### 时钟 - 原生
 ### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
-# PC
+# DESKTOP
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### SSH - [Tabby](https://github.com/Eugeny/tabby)
@@ -36,15 +36,13 @@
 - https://github.com/2dust/v2rayN
 - https://github.com/clash-verge-rev/clash-verge-rev
 # General
-### 文件管理 - PC原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
+### 文件管理 - 桌面端原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
 ### 截屏 - 原生
-### 音乐播放
+### 音乐播放 - [Gramophone](https://github.com/FoedusProgramme/Gramophone)
 - 待定：https://github.com/audacious-media-player/audacious
-- https://github.com/FoedusProgramme/Gramophone
-- https://github.com/OxygenCobalt/Auxio
-### 应用管理 - PC原生 + [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
+### 应用管理 - 桌面端原生 + [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
 - 待定：https://github.com/ImranR98/Obtainium
-### 图像查看 - PC原生 + [Aves](https://github.com/deckerst/aves)
+### 图像查看 - 桌面端原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像编辑 - [GIMP](https://gitlab.gnome.org/GNOME/gimp) + [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 ### EPUB/PDF/TXT阅读 - [Readest](https://github.com/readest/readest)
 ### 漫画阅读 - [Mihon](https://github.com/mihonapp/mihon)
