@@ -11,7 +11,7 @@
 ### 启动器 - 原生
 ### 时钟 - 原生
 ### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
-# DESKTOP
+# Desktop
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### SSH - [Tabby](https://github.com/Eugeny/tabby)
@@ -56,7 +56,7 @@
 > 对于桌面端，请在LibreWolf中访问 <about:translations#src=en&trg=zh-Hans>
 ### 输入法 - [fcitx5](https://github.com/fcitx/fcitx5) + [雾凇拼音](https://github.com/gaboolic/rime-frost)
 > 更多版本参见 [rime.im](https://rime.im/download/)
-### bilibili - [BewlyCat](https://github.com/keleus/BewlyCat) + [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [bili-api-interceptor](https://github.com/vruses/bili-api-interceptor) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
+### bilibili - [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [bili-api-interceptor](https://github.com/vruses/bili-api-interceptor) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
 ### youtube - [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
 ### 🚫 - 主题、虚拟机、串流、磁盘清理、电池管理、元数据删除
 # Operating System
@@ -81,6 +81,7 @@
 - [The Pirate Bay](https://thepiratebay.org/) - BT搜索。
 - [Incompetech](https://incompetech.com/) - Kevin MacLeod 的免版税音乐库。
 - [FLiNG Trainer](https://flingtrainer.com/) - PC游戏修改器。
+- [MSD Manual](https://www.msdmanuals.com/home) - 面向大众的医学参考资料
 # Principle
 - 最小化软件需求。 by Rin
 - 将软件需求拆分到桌面端和移动端。 by Rin
