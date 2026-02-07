@@ -13,7 +13,7 @@
 ### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
 # Desktop
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
-> *⚠ 使用前请确保完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
+> *⚠ 使用前请完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### SSH - [Tabby](https://github.com/Eugeny/tabby)
 ### Torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip)
@@ -64,23 +64,24 @@
 - https://get.opensuse.org/tumbleweed
 # Online
 ### Open Source
-- [Anna’s Archive](https://annas-archive.org/) - 影子图书馆的聚合搜索。
-- [Open Library](https://openlibrary.org/) - 图书馆。
-- [MusicBrainz](https://musicbrainz.org/) - 音乐元数据库。
-- [Wikipedia](https://www.wikipedia.org/) - 自由协作的百科全书。
-- [OpenStreetMap](https://www.openstreetmap.org/) - 开源地理数据项目。
-- [Codeberg](https://codeberg.org/) - Git 代码托管平台。
-- [itch.io](https://itch.io/) - 独立游戏平台。
-- [Liberapay](https://liberapay.com/) - 面向创作者的定期捐赠平台。
-- [The Visual Novel Database](https://vndb.org/) - 视觉小说数据库。
+- [Anna’s Archive](https://annas-archive.org/) - 影子图书馆的聚合搜索
+- [Open Library](https://openlibrary.org/) - 图书馆
+- [MusicBrainz](https://musicbrainz.org/) - 音乐元数据库
+- [Wikipedia](https://www.wikipedia.org/) - 自由协作的百科全书
+- [OpenStreetMap](https://www.openstreetmap.org/) - 开源地理数据项目
+- [Codeberg](https://codeberg.org/) - Git 代码托管平台
+- [Flashpoint Archive]( https://flashpointarchive.org) - flash档案库
+- [itch.io](https://itch.io/) - 独立游戏平台
+- [Liberapay](https://liberapay.com/) - 面向创作者的定期捐赠平台
+- [The Visual Novel Database](https://vndb.org/) - 视觉小说数据库
 ### Proprietary
-- [Mod DB](https://www.moddb.com/) - 游戏 Mod 社区。
-- [Internet Archive](https://archive.org/) - 互联网档案馆。
-- [Z-Library](https://z-library.sk/) - 影子图书馆。
-- [Project Gutenberg](https://www.gutenberg.org/) - 英文书籍为主的免费电子书。
-- [The Pirate Bay](https://thepiratebay.org/) - BT搜索。
-- [Incompetech](https://incompetech.com/) - Kevin MacLeod 的免版税音乐库。
-- [FLiNG Trainer](https://flingtrainer.com/) - PC游戏修改器。
+- [Mod DB](https://www.moddb.com/) - 游戏 Mod 社区
+- [Internet Archive](https://archive.org/) - 互联网档案馆
+- [Z-Library](https://z-library.sk/) - 影子图书馆
+- [Project Gutenberg](https://www.gutenberg.org/) - 英文书籍为主的免费电子书
+- [The Pirate Bay](https://thepiratebay.org/) - BT搜索
+- [Incompetech](https://incompetech.com/) - Kevin MacLeod 的免版税音乐库
+- [FLiNG Trainer](https://flingtrainer.com/) - PC游戏修改器
 - [MSD Manual](https://www.msdmanuals.com/home) - 面向大众的医学参考资料
 # Principle
 - 最小化软件需求。 by Rin
