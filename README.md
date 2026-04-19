@@ -8,7 +8,7 @@
 ### 天气 - [BreezyWeather](https://github.com/breezy-weather/breezy-weather)
 ### 邮箱客户端 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
 ### 2FA - [Aegis](https://github.com/beemdevelopment/Aegis)
-### 启动器 - 原生
+### Launcher - 原生
 ### 时钟 - 原生
 ### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
 # Desktop
@@ -31,10 +31,7 @@
 - https://www.onlyoffice.com/desktop.aspx
 ### 游戏模拟器
 - 待定：https://github.com/libretro/RetroArch 
-### 代理
-- 待定：https://github.com/SagerNet/sing-box
-- https://github.com/2dust/v2rayN
-- https://github.com/clash-verge-rev/clash-verge-rev
+### 代理客户端 - [v2rayN](https://github.com/2dust/v2rayN)
 # General
 ### 文件管理 - 桌面端原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
 ### 截屏 - 原生
