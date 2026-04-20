@@ -12,12 +12,14 @@
 ### 时钟 - 原生
 ### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
 # Desktop
+### 密码管理器 - [KeePassXC](https://github.com/keepassxreboot/keepassxc)
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### SSH - [Tabby](https://github.com/Eugeny/tabby)
 ### Torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip)
 ### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio)
+### 去中心化通讯 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat)
 ### 板绘 - [Krita](https://invent.kde.org/graphics/krita)
 ### 系统备份 - [Rescuezilla](https://github.com/rescuezilla/rescuezilla)
 ### 图片放大 - [Upscayl](https://github.com/upscayl/upscayl)
@@ -29,8 +31,7 @@
 ### DOCX/XLSX编辑
 - 待定：https://www.libreoffice.org/
 - https://www.onlyoffice.com/desktop.aspx
-### 游戏模拟器
-- 待定：https://github.com/libretro/RetroArch 
+### 游戏模拟器 - [RetroArch](https://github.com/libretro/RetroArch)
 ### 代理客户端 - [v2rayN](https://github.com/2dust/v2rayN)
 # General
 ### 文件管理 - 桌面端原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
@@ -38,7 +39,6 @@
 ### 音乐播放 - [Gramophone](https://github.com/FoedusProgramme/Gramophone)
 - 待定：https://github.com/audacious-media-player/audacious
 ### 应用管理 - 桌面端原生 + [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
-- 待定：https://github.com/ImranR98/Obtainium
 ### 图像查看 - 桌面端原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像编辑 - [GIMP](https://gitlab.gnome.org/GNOME/gimp) + [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 ### EPUB/PDF/TXT阅读 - [Readest](https://github.com/readest/readest)
@@ -53,8 +53,7 @@
 > 对于桌面端，请在LibreWolf中访问 <about:translations#src=en&trg=zh-Hans>
 ### 输入法 - [fcitx5](https://github.com/fcitx/fcitx5) + [雾凇拼音](https://github.com/gaboolic/rime-frost)
 > 更多版本参见 [rime.im](https://rime.im/download/)
-### bilibili - [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) + [bili-api-interceptor](https://github.com/vruses/bili-api-interceptor) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
-### youtube - [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+### bilibili - [bili-api-interceptor](https://github.com/vruses/bili-api-interceptor) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
 ### 🚫 - 主题、虚拟机、串流、磁盘清理、电池管理、元数据删除
 # Operating System
 - 待定：https://fedoraproject.org/
