@@ -36,8 +36,7 @@
 # General
 ### 文件管理 - 桌面端原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
 ### 截屏 - 原生
-### 音乐播放 - [Gramophone](https://github.com/FoedusProgramme/Gramophone)
-- 待定：https://github.com/audacious-media-player/audacious
+### 音乐播放 - [Museeks](https://github.com/martpie/museeks) + [Gramophone](https://github.com/FoedusProgramme/Gramophone)
 ### 应用管理 - 桌面端原生 + [F-droid Basic](https://f-droid.org/en/packages/org.fdroid.basic)
 ### 图像查看 - 桌面端原生 + [Aves](https://github.com/deckerst/aves)
 ### 图像编辑 - [GIMP](https://gitlab.gnome.org/GNOME/gimp) + [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
