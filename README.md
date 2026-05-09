@@ -33,6 +33,8 @@
 - https://www.onlyoffice.com/desktop.aspx
 ### 游戏模拟器 - [RetroArch](https://github.com/libretro/RetroArch)
 ### 代理客户端 - [v2rayN](https://github.com/2dust/v2rayN)
+### 本地LLM
+> 对于消费级机器，目前还无法用上真正能做事的AI，等待吧
 # General
 ### 文件管理 - 桌面端原生 + [Material Files](https://github.com/zhanghai/MaterialFiles)
 ### 截屏 - 原生
