@@ -13,6 +13,7 @@
 ### 🚫 - 屏幕录制、经期管理、DOCX/XLSX/PPTX查看、联系人、日历、记账、番茄钟、虚拟定位、噪音测量、指南针
 # Desktop
 ### 密码管理器 - [KeePassXC](https://github.com/keepassxreboot/keepassxc)
+### 开发环境配置工具 - [Mise](https://github.com/jdx/mise)
 ### IDE - [VSCodium](https://github.com/VSCodium/vscodium)
 > *⚠ 使用前请完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### SSH - [Tabby](https://github.com/Eugeny/tabby)
