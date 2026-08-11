@@ -18,6 +18,7 @@
 > *⚠ 使用前请完整参阅[说明文档](https://github.com/VSCodium/vscodium/tree/master/docs)，以尽可能避免潜在的问题。*
 ### SSH - [Tabby](https://github.com/Eugeny/tabby)
 ### Torrent - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+### 视频下载 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 ### 压缩 - [7zip](https://github.com/ip7z/7zip)
 ### 屏幕录制 - [OBS Studio](https://github.com/obsproject/obs-studio)
 ### 去中心化通讯 - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat)
@@ -55,7 +56,7 @@
 > 对于桌面端，请在LibreWolf中访问 <about:translations#src=en&trg=zh-Hans>
 ### 输入法 - [fcitx5](https://github.com/fcitx/fcitx5) + [雾凇拼音](https://github.com/gaboolic/rime-frost)
 > 更多版本参见 [rime.im](https://rime.im/download/)
-### bilibili - [bili-api-interceptor](https://github.com/vruses/bili-api-interceptor) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
+### bilibili - [beefreely](https://github.com/vruses/beefreely) + [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
 ### 🚫 - 主题、虚拟机、串流、磁盘清理、电池管理、元数据删除
 # Operating System
 - 待定：https://fedoraproject.org/
