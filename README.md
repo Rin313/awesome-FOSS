@@ -79,6 +79,7 @@
 - [Z-Library](https://z-library.sk/) - 影子图书馆
 - [Project Gutenberg](https://www.gutenberg.org/) - 英文书籍为主的免费电子书
 - [The Pirate Bay](https://thepiratebay.org/) - BT搜索
+- [Nyaa](https://nyaa.si/) - 动漫资源BT站
 - [Incompetech](https://incompetech.com/) - Kevin MacLeod 的免版税音乐库
 - [FLiNG Trainer](https://flingtrainer.com/) - PC游戏修改器
 - [MSD Manual](https://www.msdmanuals.com/home) - 面向大众的医学参考资料
